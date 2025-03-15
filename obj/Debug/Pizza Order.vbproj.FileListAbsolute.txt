@@ -1,0 +1,11 @@
+C:\Users\Kalhara\Downloads\Compressed\Pizza Order\bin\Debug\Pizza Order.exe
+C:\Users\Kalhara\Downloads\Compressed\Pizza Order\bin\Debug\Pizza Order.pdb
+C:\Users\Kalhara\Downloads\Compressed\Pizza Order\bin\Debug\Pizza Order.xml
+C:\Users\Kalhara\Downloads\Compressed\Pizza Order\obj\Debug\Pizza Order.vbprojAssemblyReference.cache
+C:\Users\Kalhara\Downloads\Compressed\Pizza Order\obj\Debug\Pizza_Order.frmPizza.resources
+C:\Users\Kalhara\Downloads\Compressed\Pizza Order\obj\Debug\Pizza_Order.Resources.resources
+C:\Users\Kalhara\Downloads\Compressed\Pizza Order\obj\Debug\Pizza Order.vbproj.GenerateResource.cache
+C:\Users\Kalhara\Downloads\Compressed\Pizza Order\obj\Debug\Pizza Order.vbproj.CoreCompileInputs.cache
+C:\Users\Kalhara\Downloads\Compressed\Pizza Order\obj\Debug\Pizza Order.exe
+C:\Users\Kalhara\Downloads\Compressed\Pizza Order\obj\Debug\Pizza Order.xml
+C:\Users\Kalhara\Downloads\Compressed\Pizza Order\obj\Debug\Pizza Order.pdb
